@@ -1,0 +1,12 @@
+{
+  "name": "olimpijske-igre",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Jovana Dovijanic",
+  "license": "ISC"
+}
